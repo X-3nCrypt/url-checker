@@ -1,4 +1,4 @@
-# URL Status Checker
+![screnshot](https://github.com/user-attachments/assets/97eb754a-5fd1-4652-8a42-fa062536a5a2)# URL Status Checker
 
 🌊 version 1.0.1 created by X-3nCrypt & ChatGPT4.0 with ❤️ 🌊
 
