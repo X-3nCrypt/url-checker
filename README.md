@@ -18,5 +18,5 @@ URL Status Checker is a Python tool designed to check the status of a list of UR
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/X-3nCrypt/url-checker.git
+   git clone https://github.com/X-3nCrypt/url-checker.git
    cd url-status-checker
